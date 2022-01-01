@@ -7,8 +7,13 @@ FFFFFFFFTTTTTTFFFFFFFFFF
 for a fixed i we are trying to find the j such that i and j shall contain all the Trues.
 In case of counting think of this.
 
+The following problems are really really good for concept building of two pointer.
+https://codeforces.com/contest/1462/problem/E1
+Both versions E1 and E2.
 
-### Think about it more and add the questions.
+-----------------------------------------
+
+### Think about it more.
 
 type 2 ->
 
