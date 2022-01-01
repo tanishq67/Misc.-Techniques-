@@ -27,6 +27,7 @@ Example# fixed value of the pair.
 
 ---------------------------------------
 Imp thing so that I dont get stuck again;
+(The following is very good problem to understand how two pointers work and when you should think of it)
 https://codeforces.com/contest/1324/problem/D
 In this problem this technique may look good but it will not work -
         for(ll i = 0; i< n-1; i++){
